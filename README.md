@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Eudangeld github stats](https://github-readme-stats.vercel.app/api?username=eudangeld)](https://github.com/eudangeld/github-readme-stats)
+[![Eudangeld github stats](https://github-readme-stats.vercel.app/api?username=eudangeld)](https://www.linkedin.com/in/dannylo-dangel-a07870164/)
 
 
 
